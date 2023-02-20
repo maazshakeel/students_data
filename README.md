@@ -7,3 +7,7 @@ If you want to add (store) a new student to the database, you can add students:
     - Student gender
     - Student email
     - Student name
+
+### Images
+<img src="./imgs/one.png" />
+<img src="./imgs/two.png" />
